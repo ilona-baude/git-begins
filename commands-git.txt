@@ -5,3 +5,5 @@ step 2: git commit -m "update content"
 step 3: git push -u origin main 
 
 git pull origin main 
+ git checkout -b new-branch = commande pour créer une nouvelle branche
+git switch name-branch = commande pour changer de branche
